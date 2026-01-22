@@ -26,4 +26,4 @@ Through these courses, I am developing:
 
 ## 🛠️ Code & Practice Projects
 My practical implementations, exercises, and projects can be found in my other repositories:  
-👉 **[GitHub](https://github.com/Hamani-Mohamed)**
+👉 **[GitHub](https://github.com/Hamani-Mohamed?tab=repositories)**
