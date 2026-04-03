@@ -9,7 +9,8 @@ This roadmap focuses on building **strong programming fundamentals**, including:
 - 🧠 Programming fundamentals  
 - 🧩 Problem solving & algorithms  
 - 🧱 Object-Oriented Programming (OOP)  
-- 💻 C++ foundations  
+- 💻 C++ foundations
+- Real Life Project (DVLD)
 - ⚙️ C# & .NET fundamentals  
 
 ---
@@ -17,8 +18,8 @@ This roadmap focuses on building **strong programming fundamentals**, including:
 ## 🚀 What I Gained
 Through these courses, I am developing:
 - ✅ A solid understanding of programming fundamentals  
-- ✅ Practical experience with **C++** (syntax, OOP, STL basics)  
-- ✅ Practical experience with **C#** (OOP, core .NET concepts)  
+- ✅ Practical experience with **C++** (syntax, OOP...)  
+- ✅ Practical experience with **C#** (OOP, core .NET concepts...)  
 - ✅ Strong problem-solving and logical thinking skills  
 - ✅ Writing clean, structured, and maintainable code  
 
